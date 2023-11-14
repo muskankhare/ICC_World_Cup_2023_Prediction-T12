@@ -216,15 +216,19 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 ### Outcome Forecast: Anticipate the Winners
 
-*  **Objective:** The primary objective is to develop an Outcome Forecast model to anticipate and predict match winners in the ICC Cricket World Cup 2023.
+### Outcome Forecast: Anticipate the Winners
 
-*  **Data Source:** Leverages comprehensive match data, encompassing team statistics, player performances, and historical outcomes, to build a robust prediction model.
+*  **Objective:**It can be used as a dynamic model. We can predict match winners in the ICC Cricket World Cup 2023.
+
+*  **Data Source:** We have used two datasets "delivery.csv" and "matches.csv"
 
 *  **Approach:** Employs advanced machine learning algorithms to analyze historical patterns and discern factors contributing to match victories.
 
-*  **ML Techniques:**
+*  **ML Techniques:** We have used different classifier and tune model using hyperparameters examples Gradientboosting, XGBoost, CatBoost, LGBMClassifier, DNN with different hyperparameters. 
 
 *  **Predictive Feature:**  Considers various variables, including team composition, player form, and past head-to-head performances, to predict match outcomes accurately.
+
+*  ![featues](images/semi_final_inputs.jpg)
 
 *  **Outcome:** Provides valuable insights and predictions on potential match winners, assisting cricket enthusiasts, analysts, and strategists in making informed decisions during the World Cup 2023.
 (result screenshot)
