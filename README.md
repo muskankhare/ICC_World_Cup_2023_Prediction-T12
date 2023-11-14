@@ -293,9 +293,9 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 Deployment: [Click Here](https://gold-diggers-dm-nqcuph3fkq-uc.a.run.app/docs)
 
-![5](images/fastApi_deploy01.jpeg)
+![5](images/fastApi_deploy01.jpg)
 
-![6](images/fastApi_deploy02.jpeg)
+![6](images/fastApi_deploy02.jpg)
 
 ### CONCLUSION
 
