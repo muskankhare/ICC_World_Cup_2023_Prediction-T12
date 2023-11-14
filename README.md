@@ -159,8 +159,25 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 ## Workflow
 
-![pipeline_1](images/Frame 1.png)
+![pipeline_1](images/Frame_1.png)
 ![pipeline_2](images/Frame_2.png)
+
+### Exploratory Data Analysis
+
+## Insights
+
+*  MA Chidambaram Stadium is the venue where most balls are played.
+  
+* South Africa faced the most balls among all the batting teams.
+  
+* Virat Kohli is the player who faced the most balls among all the players.
+  
+* India is the team that played the most matches.
+  
+* The majority of the matches were won by the team that batted first.
+  
+* The most common result of the matches was that the team that batted first won by a certain number of runs.
+
 
 ## FUNCTIONALITIES
 
