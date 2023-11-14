@@ -233,12 +233,14 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 *  ![featuers](images/metric_result.jpg)
 
 *  **Predictive Feature and result:**  Considers various variables, including team composition, player form, and past head-to-head performances, to predict match outcomes accurately.
- *
+
  *  **Semi Finalist predicted are India and South Africa**
- * 
+   
  *   ![featuers](images/semi_final_inputs.jpg)
 
  *   ![featuers](images/semi_final_result.jpg)
+
+
 
  *   **World cup 2023 Winner is India**
  *   ![featuers](images/final_inputs.jpg)
