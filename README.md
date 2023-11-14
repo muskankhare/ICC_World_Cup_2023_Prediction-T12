@@ -228,7 +228,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 *  **Predictive Feature:**  Considers various variables, including team composition, player form, and past head-to-head performances, to predict match outcomes accurately.
 
-*  ![featues](images/semi_final_inputs.jpg)
+*  ![featuers](images/semi_final_inputs.jpg)
 
 *  **Outcome:** Provides valuable insights and predictions on potential match winners, assisting cricket enthusiasts, analysts, and strategists in making informed decisions during the World Cup 2023.
 (result screenshot)
