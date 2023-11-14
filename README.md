@@ -154,5 +154,62 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 | Against     | Total runs conceded by the team in all matches.                 |
 
 
+## Workflow
+
+##FUNCTIONALITIES
+##TASK 1:
+###Score Projection Engine
+*  **Objective:** The primary aim is to develop a Score Projection Engine for predicting overall team scores in the ICC Cricket World Cup 2023.
+
+*  **Data Source:**  Utilizes extensive match data, including historical scores and team performance, to construct a robust dataset.(ODI_match_data.csv)
+
+*  **Methodology:**  Implements advanced machine learning techniques to analyze past match outcomes and create a predictive model for projecting team scores.
+
+*  **ML techniques:** 
+
+*  **Predictive Feature:**  Focuses on various factors influencing team scores, such as teams, venue, historical performance etc.
+
+*  **Outcome:**  Offers score projections, enabling stakeholders to anticipate and strategize based on expected team performances in the World Cup 2023.
+###Kohli's Run Oracle
+* **Objective:** The primary goal is to predict the total runs scored by Virat Kohli in the ICC Cricket World Cup 2023.
+
+* **Data Source:** Utilizes ball-by-ball data from previous matches in the World Cup 2023 to build a comprehensive dataset.(deliveries.csv, matches.csv, points_table.csv)
+
+* **Methodology:**  Employs machine learning techniques to analyze historical performance data and create a predictive model for Virat Kohli’'s batting performance.
+ 
+* **ML techniques:**  Utilizing a diverse set of regression models, including Linear Regression, Random Forest Regressor, XGBoost Regressor, and MLP Regressor, with an added layer of optimization through hyperparameter tuning via GridSearchCV.
+
+* **Predictive Feature:**  The model focuses on forecasting runs(total_runs) based on the specific number of deliveries faced by Virat Kohli.
+
+* **Outcome:**  Provides insights and predictions that can contribute to a better understanding of Virat Kohli's expected performance in the World Cup 2023.
+(result screenshot)
+
+##TASK 2 and 3:
+###Outcome Forecast: Anticipate the Winners
+*  **Objective:** The primary objective is to develop an Outcome Forecast model to anticipate and predict match winners in the ICC Cricket World Cup 2023.
+
+*  **Data Source:** Leverages comprehensive match data, encompassing team statistics, player performances, and historical outcomes, to build a robust prediction model.
+
+*  **Methodology:** Employs advanced machine learning algorithms to analyze historical patterns and discern factors contributing to match victories.
+
+*  **ML Techniques:**
+
+*  **Predictive Feature:**  Considers various variables, including team composition, player form, and past head-to-head performances, to predict match outcomes accurately.
+
+*  **Outcome:** Provides valuable insights and predictions on potential match winners, assisting cricket enthusiasts, analysts, and strategists in making informed decisions during the World Cup 2023.
+(result screenshot)
+
+
+###XI Projection: Forecasting the Playing Squad
+*  **Objective:**  The central goal is to facilitate teams in making well-informed decisions regarding the composition of their playing eleven for the final match of the ICC Cricket World Cup 2023.
+
+*  **Data Source:**  Utilizes extensive player data spanning since 2002, incorporating batting and bowling performances to create a comprehensive model.
+
+*  **Methodology:**  Employs advanced analytics to calculate batting and bowling ratings, enabling the selection of the top 6 batsmen and top 5 bowlers for each team based on their historical performances.
+
+*  **Predictive Feature:**  Considers individual player statistics and historical trends to predict the optimal playing eleven, providing a strategic edge in the crucial final match.
+(result screenshot)
+*  **Outcome:**  Aids teams in strategic decision-making, offering valuable insights into player performances and contributing to the development of an optimal playing eleven for the World Cup 2023 final.
+
 
 
