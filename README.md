@@ -210,7 +210,8 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 * **Predictive Feature:**  The model focuses on forecasting runs(total_runs) based on the specific number of deliveries faced by Virat Kohli.
 
 * **Outcome:**  Provides insights and predictions that can contribute to a better understanding of Virat Kohli's expected performance in the World Cup 2023.
-  ![4](images/4.jpeg)
+
+   ![4](images/4.jpeg)
 
 ## TASK 2 and 3:
 
