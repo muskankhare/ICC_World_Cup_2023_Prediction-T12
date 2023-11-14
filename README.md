@@ -1,6 +1,8 @@
 # ICC World Cup 2023 predictions
 (Introduction to Data Mining Course Project 3)
 
+![pipeline_1](Graphic/3.png)
+
 In this course project, we strive to employ advanced data mining methods to provide valuable insights for decision-making during the ODI Cricket World Cup 2023. The project focuses on three crucial aspects: assessing the individual performance of players, predicting match scores, and anticipating outcomes for both finals and semifinals. Additionally, our endeavor extends to offering strategic recommendations by predicting the playing XI for teams in the finals, contributing to a comprehensive analysis of the tournament.
 
 ## Team 12-Gold Diggers
@@ -156,6 +158,9 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 
 ## Workflow
+
+![pipeline_1](Graphic/3.png)
+![pipeline_2](Graphic/3.png)
 
 ## FUNCTIONALITIES
 
