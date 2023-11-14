@@ -261,7 +261,9 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 *  **ML Techniques:** Usee Linear Regression
 
 *  **Predictive Feature:**  Considers individual player statistics and historical trends to predict the optimal playing eleven, providing a strategic edge in the crucial final match.
-(result screenshot)
+ ![1](images/1.jpeg)
+![2](images/2.jpeg)
+![3](images/3.jpeg)
 *  **Outcome:**  Aids teams in strategic decision-making, offering valuable insights into player performances and contributing to the development of an optimal playing eleven for the World Cup 2023 final.
 
 
