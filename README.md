@@ -13,7 +13,7 @@ In this course project, we strive to employ advanced data mining methods to prov
 | 202218063 | Bhoomi Prajapati | Row 3, Col 3 |
 | 202101201 | Bhargav Vidja    | Row 3, Col 3 |
 
-##DATASETS:
+## DATASETS:
 
 The dataset comprises files from kaggle. 
 
@@ -21,7 +21,7 @@ Dataset 1: [ICC Mens World Cup 2023](https://www.kaggle.com/datasets/pardeep19si
 
 Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/datasets/utkarshtomar736/odi-mens-cricket-match-data-2002-2023)
 
-###Dataset Description:
+### Dataset Description:
 
 * ODI_Match_Data.csv
   
