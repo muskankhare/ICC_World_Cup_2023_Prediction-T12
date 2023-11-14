@@ -13,9 +13,9 @@ In this course project, we strive to employ advanced data mining methods to prov
 |-------------|----------|---------------|
 | 202218003 | Rahul Upadhyay   | Deployment, Documentation |
 | 202218037 | Muskan Khare     | Predicting Playing XI, Score Predictor, Documentation |
-| 202218061 | Jatan Sahu       | Predicting finalists and winner |
+| 202218061 | Jatan Sahu       | Predicting finalists and winner, Score Predictor |
 | 202218063 | Bhoomi Prajapati | Predicting Kohli’s Performance, Exploratory Data Analysis |
-| 202101201 | Bhargav Vidja    | Exploratory Data Analysis, Score Predictor |
+| 202101201 | Bhargav Vidja    | Exploratory Data Analysis, Flowcharts |
 
 
 ## DATASETS:
