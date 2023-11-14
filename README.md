@@ -156,11 +156,11 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 ## Workflow
 
-##FUNCTIONALITIES
+## FUNCTIONALITIES
 
-##TASK 1:
+## TASK 1:
 
-###Score Projection Engine
+### Score Projection Engine
 
 *  **Objective:** The primary aim is to develop a Score Projection Engine for predicting overall team scores in the ICC Cricket World Cup 2023.
 
@@ -174,7 +174,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 *  **Outcome:**  Offers score projections, enabling stakeholders to anticipate and strategize based on expected team performances in the World Cup 2023.
   
-###Kohli's Run Oracle
+### Kohli's Run Oracle
 
 * **Objective:** The primary goal is to predict the total runs scored by Virat Kohli in the ICC Cricket World Cup 2023.
 
@@ -189,9 +189,9 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 * **Outcome:**  Provides insights and predictions that can contribute to a better understanding of Virat Kohli's expected performance in the World Cup 2023.
 (result screenshot)
 
-##TASK 2 and 3:
+## TASK 2 and 3:
 
-###Outcome Forecast: Anticipate the Winners
+### Outcome Forecast: Anticipate the Winners
 
 *  **Objective:** The primary objective is to develop an Outcome Forecast model to anticipate and predict match winners in the ICC Cricket World Cup 2023.
 
@@ -206,7 +206,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 *  **Outcome:** Provides valuable insights and predictions on potential match winners, assisting cricket enthusiasts, analysts, and strategists in making informed decisions during the World Cup 2023.
 (result screenshot)
 
-###XI Projection: Forecasting the Playing Squad
+### XI Projection: Forecasting the Playing Squad
 
 *  **Objective:**  The central goal is to facilitate teams in making well-informed decisions regarding the composition of their playing eleven for the final match of the ICC Cricket World Cup 2023.
 
