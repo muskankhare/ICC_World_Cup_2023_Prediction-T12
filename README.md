@@ -157,8 +157,11 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 ## Workflow
 
 ##FUNCTIONALITIES
+
 ##TASK 1:
+
 ###Score Projection Engine
+
 *  **Objective:** The primary aim is to develop a Score Projection Engine for predicting overall team scores in the ICC Cricket World Cup 2023.
 
 *  **Data Source:**  Utilizes extensive match data, including historical scores and team performance, to construct a robust dataset.(ODI_match_data.csv)
@@ -170,7 +173,9 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 *  **Predictive Feature:**  Focuses on various factors influencing team scores, such as teams, venue, historical performance etc.
 
 *  **Outcome:**  Offers score projections, enabling stakeholders to anticipate and strategize based on expected team performances in the World Cup 2023.
+  
 ###Kohli's Run Oracle
+
 * **Objective:** The primary goal is to predict the total runs scored by Virat Kohli in the ICC Cricket World Cup 2023.
 
 * **Data Source:** Utilizes ball-by-ball data from previous matches in the World Cup 2023 to build a comprehensive dataset.(deliveries.csv, matches.csv, points_table.csv)
@@ -185,7 +190,9 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 (result screenshot)
 
 ##TASK 2 and 3:
+
 ###Outcome Forecast: Anticipate the Winners
+
 *  **Objective:** The primary objective is to develop an Outcome Forecast model to anticipate and predict match winners in the ICC Cricket World Cup 2023.
 
 *  **Data Source:** Leverages comprehensive match data, encompassing team statistics, player performances, and historical outcomes, to build a robust prediction model.
@@ -199,8 +206,8 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 *  **Outcome:** Provides valuable insights and predictions on potential match winners, assisting cricket enthusiasts, analysts, and strategists in making informed decisions during the World Cup 2023.
 (result screenshot)
 
-
 ###XI Projection: Forecasting the Playing Squad
+
 *  **Objective:**  The central goal is to facilitate teams in making well-informed decisions regarding the composition of their playing eleven for the final match of the ICC Cricket World Cup 2023.
 
 *  **Data Source:**  Utilizes extensive player data spanning since 2002, incorporating batting and bowling performances to create a comprehensive model.
