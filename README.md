@@ -191,7 +191,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 *  **Approach:**  Implements advanced machine learning techniques to analyze past match outcomes and create a predictive model for projecting team scores.
 
-*  **ML techniques:** 
+*  **ML techniques:** Used XGBRegressor
 
 *  **Predictive Feature:**  Focuses on various factors influencing team scores, such as teams, venue, historical performance etc.
 
@@ -218,7 +218,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 ### Outcome Forecast: Anticipate the Winners
 
-*  **Objective:**It can be used as a dynamic model. We can predict match winners in the ICC Cricket World Cup 2023.
+*  **Objective:** It can be used as a dynamic model. We can predict match winners in the ICC Cricket World Cup 2023.
 
 *  **Data Source:** We have used two datasets "delivery.csv" and "matches.csv"
 
@@ -258,11 +258,38 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 *  **Approach:**  Employs advanced analytics to calculate batting and bowling ratings, enabling the selection of the top 6 batsmen and top 5 bowlers for each team based on their historical performances.
 
-*  **ML Techniques:** 
+*  **ML Techniques:** Usee Linear Regression
 
 *  **Predictive Feature:**  Considers individual player statistics and historical trends to predict the optimal playing eleven, providing a strategic edge in the crucial final match.
 (result screenshot)
 *  **Outcome:**  Aids teams in strategic decision-making, offering valuable insights into player performances and contributing to the development of an optimal playing eleven for the World Cup 2023 final.
+
+
+### DEPLOYMENT
+
+* **FastAPI with Pickle File:** Developed a FastAPI application, possibly using Python, where a pickle file is utilized. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python.
+
+
+* **Docker Containerization:**  Containerized the FastAPI application using Docker. Docker allows you to package your application and its dependencies into a container, ensuring it runs consistently across different environments.
+
+
+* **GitHub Repository:** Created a repository on GitHub to store and manage the Dockerized FastAPI application. This repository likely contains the Dockerfile, FastAPI code, and any other necessary files.
+
+
+* **Public Docker Repository:** Pushed the Docker image (created from the Dockerfile and FastAPI application) to a public Docker repository. This step involves making your Docker image accessible to others, which is essential for deploying on platforms like Google Cloud Run.
+
+
+* **Google Cloud Run Hosting:** Deployed the Dockerized FastAPI application on Google Cloud Run. Google Cloud Run is a serverless platform for containerized applications, and it automatically scales your application based on demand.
+
+
+* **Public Hosting:** Configured the Google Cloud Run service to be publicly accessible. This means anyone with the correct URL can interact with your FastAPI application via the API endpoints.
+
+
+
+### CONCLUSION
+
+This comprehensive data mining project for the ICC Cricket World Cup 2023 delves into vast Kaggle datasets, employing exploratory data analysis (EDA) to uncover valuable insights. Their project encompasses three key aspects: the Score Projection Engine for predicting team scores, Kohli's Run Oracle for forecasting Virat Kohli's performance, and models for anticipating match outcomes and projecting playing XIs. Utilizing machine learning techniques and historical data, the project offers valuable decision-making guidance during the tournament. Through their collaborative efforts, Team 12-Gold Diggers has provided cricket enthusiasts, analysts, and teams with a multifaceted toolkit for understanding, predicting, and strategizing in the dynamic ODI cricket landscape.
+
 
 
 
