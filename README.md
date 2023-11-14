@@ -164,7 +164,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 *  **Data Source:**  Utilizes extensive match data, including historical scores and team performance, to construct a robust dataset.(ODI_match_data.csv)
 
-*  **Methodology:**  Implements advanced machine learning techniques to analyze past match outcomes and create a predictive model for projecting team scores.
+*  **Approach:**  Implements advanced machine learning techniques to analyze past match outcomes and create a predictive model for projecting team scores.
 
 *  **ML techniques:** 
 
@@ -178,7 +178,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 * **Data Source:** Utilizes ball-by-ball data from previous matches in the World Cup 2023 to build a comprehensive dataset.(deliveries.csv, matches.csv, points_table.csv)
 
-* **Methodology:**  Employs machine learning techniques to analyze historical performance data and create a predictive model for Virat Kohli’'s batting performance.
+* **Approach:**  Employs machine learning techniques to analyze historical performance data and create a predictive model for Virat Kohli’'s batting performance.
  
 * **ML techniques:**  Utilizing a diverse set of regression models, including Linear Regression, Random Forest Regressor, XGBoost Regressor, and MLP Regressor, with an added layer of optimization through hyperparameter tuning via GridSearchCV.
 
@@ -195,7 +195,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 *  **Data Source:** Leverages comprehensive match data, encompassing team statistics, player performances, and historical outcomes, to build a robust prediction model.
 
-*  **Methodology:** Employs advanced machine learning algorithms to analyze historical patterns and discern factors contributing to match victories.
+*  **Approach:** Employs advanced machine learning algorithms to analyze historical patterns and discern factors contributing to match victories.
 
 *  **ML Techniques:**
 
@@ -210,7 +210,7 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 *  **Data Source:**  Utilizes extensive player data spanning since 2002, incorporating batting and bowling performances to create a comprehensive model.
 
-*  **Methodology:**  Employs advanced analytics to calculate batting and bowling ratings, enabling the selection of the top 6 batsmen and top 5 bowlers for each team based on their historical performances.
+*  **Approach:**  Employs advanced analytics to calculate batting and bowling ratings, enabling the selection of the top 6 batsmen and top 5 bowlers for each team based on their historical performances.
 
 *  **Predictive Feature:**  Considers individual player statistics and historical trends to predict the optimal playing eleven, providing a strategic edge in the crucial final match.
 (result screenshot)
