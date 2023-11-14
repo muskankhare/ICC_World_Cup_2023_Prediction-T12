@@ -1,6 +1,8 @@
 # ICC World Cup 2023 predictions
 (Introduction to Data Mining Course Project 3)
 
+![icc](images/Frame_3.jpeg)
+
 In this course project, we strive to employ advanced data mining methods to provide valuable insights for decision-making during the ODI Cricket World Cup 2023. The project focuses on three crucial aspects: assessing the individual performance of players, predicting match scores, and anticipating outcomes for both finals and semifinals. Additionally, our endeavor extends to offering strategic recommendations by predicting the playing XI for teams in the finals, contributing to a comprehensive analysis of the tournament.
 
 ## Team 12-Gold Diggers
@@ -11,9 +13,9 @@ In this course project, we strive to employ advanced data mining methods to prov
 |-------------|----------|---------------|
 | 202218003 | Rahul Upadhyay   | Deployment, Documentation |
 | 202218037 | Muskan Khare     | Predicting Playing XI, Score Predictor, Documentation |
-| 202218061 | Jatan Sahu       | Predicting finalists and winner |
+| 202218061 | Jatan Sahu       | Predicting finalists and winner, Score Predictor |
 | 202218063 | Bhoomi Prajapati | Predicting Kohli’s Performance, Exploratory Data Analysis |
-| 202101201 | Bhargav Vidja    | Exploratory Data Analysis, Score Predictor |
+| 202101201 | Bhargav Vidja    | Exploratory Data Analysis, Flowcharts |
 
 
 ## DATASETS:
@@ -156,6 +158,26 @@ Dataset2: [ODI Men's Cricket Match Data (2002-2023)](https://www.kaggle.com/data
 
 
 ## Workflow
+
+![pipeline_1](images/Frame_1.jpeg)
+![pipeline_2](images/Frame_2.jpeg)
+
+### Exploratory Data Analysis
+
+## Insights
+
+*  MA Chidambaram Stadium is the venue where most balls are played.
+  
+* South Africa faced the most balls among all the batting teams.
+  
+* Virat Kohli is the player who faced the most balls among all the players.
+  
+* India is the team that played the most matches.
+  
+* The majority of the matches were won by the team that batted first.
+  
+* The most common result of the matches was that the team that batted first won by a certain number of runs.
+
 
 ## FUNCTIONALITIES
 
