@@ -5,13 +5,15 @@ In this course project, we strive to employ advanced data mining methods to prov
 ## Team 12-Gold Diggers
 
 ### Individual Contributions:
+
 | Student ID  |   Name   |     Task      |
 |-------------|----------|---------------|
-| 202218003 | Rahul Upadhyay   | Row 1, Col 3 |
-| 202218037 | Muskan Khare     | Row 2, Col 3 |
-| 202218061 | Jatan Sahu       | Row 3, Col 3 |
-| 202218063 | Bhoomi Prajapati | Row 3, Col 3 |
-| 202101201 | Bhargav Vidja    | Row 3, Col 3 |
+| 202218003 | Rahul Upadhyay   | Deployment, Documentation |
+| 202218037 | Muskan Khare     | Predicting Playing XI, Score Predictor, Documentation |
+| 202218061 | Jatan Sahu       | Predicting Semi-finalists and finalist |
+| 202218063 | Bhoomi Prajapati | Predicting Kohli’s Performance, Exploratory Data Analysis |
+| 202101201 | Bhargav Vidja    | Exploratory Data Analysis, Score Predictor |
+
 
 ## DATASETS:
 
